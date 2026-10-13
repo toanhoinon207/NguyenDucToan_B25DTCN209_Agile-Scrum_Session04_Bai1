@@ -19,9 +19,9 @@ Là một khách hàng, tôi muốn giao diện đặt món hiển thị rõ tê
 
 &emsp;&emsp; **Feature:** Báo cáo doanh thu
 
-&emsp;&emsp;&emsp;- **UC4.1:** Là một admin, tôi muốn xem doanh thu theo ngày, tuần, tháng và theo nhà hàng hoặc khu vực, để theo dõi tình hình kinh doanh.
+&emsp;&emsp;&emsp;- **US4.1:** Là một admin, tôi muốn xem doanh thu theo ngày, tuần, tháng và theo nhà hàng hoặc khu vực, để theo dõi tình hình kinh doanh.
 
-&emsp;&emsp;&emsp;- **UC4.2:** Là một admin, tôi muốn xuất báo cáo doanh thu ra Excel và gửi qua email cho ban giám đốc, để chia sẻ kết quả kinh doanh.
+&emsp;&emsp;&emsp;- **US4.2:** Là một admin, tôi muốn xuất báo cáo doanh thu ra Excel và gửi qua email cho ban giám đốc, để chia sẻ kết quả kinh doanh.
 
 # Bước 3. Xếp lại backlog
 
@@ -29,10 +29,10 @@ Là một khách hàng, tôi muốn giao diện đặt món hiển thị rõ tê
 
 | Ưu tiên | User Story |
 |:---:|---|
-| **1** | UC1 - Lọc nhà hàng theo món |
-| **2** | UC2 - Giao diện đặt món đễ dùng |
-| **3** | UC4.1 Xem báo cáo doanh thu |
-| **4** | UC4.2 - Xuất và gửi báo cáo |
+| **1** | US1 - Lọc nhà hàng theo món |
+| **2** | US2 - Giao diện đặt món đễ dùng |
+| **3** | US4.1 Xem báo cáo doanh thu |
+| **4** | US4.2 - Xuất và gửi báo cáo |
 
 ## b) DEEP
 
